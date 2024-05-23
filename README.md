@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Blockchain Development**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/My-Portfolio-2171cf3c2f1c4572a2afdd9f6ee17eeb?pvs=4](https://www.notion.so/My-Portfolio-2171cf3c2f1c4572a2afdd9f6ee17eeb?pvs=4)
-
 - 💬 Ask me about **react, django, fastapi, my personal life anything**
 
 - 📫 How to reach me **obidaberechukwu@gmail.com**
